@@ -1,5 +1,5 @@
 pkg_name=sample-node-app
-pkg_origin=lnxchk_test
+pkg_origin=lnxchk-test
 pkg_scaffolding="core/scaffolding-node"
 pkg_version="1.0.1"
 
