@@ -1,7 +1,7 @@
 pkg_name=sample-node-app
 pkg_origin=lnxchk-velocitylondon
 pkg_scaffolding="core/scaffolding-node"
-pkg_version="1.0.7"
+pkg_version="1.0.8"
 
 declare -A scaffolding_env
 
